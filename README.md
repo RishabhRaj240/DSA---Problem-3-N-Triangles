@@ -49,7 +49,7 @@ Output:
 
 ## 📸 Screenshot
 
-<img width="1207" height="782" alt="Screenshot 2026-06-19 231213" src="https://github.com/user-attachments/assets/8eb95ebb-4c0e-45ba-9b46-3c678ba9988d" />
+<img width="1207" height="786" alt="Screenshot 2026-06-20 074556" src="https://github.com/user-attachments/assets/05828478-d13d-4f1c-9fd3-6e04025e78e7" />
 
 Example folder structure:
 
